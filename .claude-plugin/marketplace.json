@@ -1,0 +1,5 @@
+{
+  "name": "claude-koi-pond",
+  "owner": { "name": "minhhoang01vn-dotcom" },
+  "plugins": [{ "name": "koi-pond", "source": "./" }]
+}
